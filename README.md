@@ -1,4 +1,3 @@
-```html
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=2500&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=false&width=500&height=80&lines=Ali+Mohammed" alt="Ali Mohammed" />
 
@@ -83,4 +82,4 @@ I enjoy connecting the technical and business sides to better understand problem
 Egyptian Russian University · 2022–2026
 
 </div>
-```
+
