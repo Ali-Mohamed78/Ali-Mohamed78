@@ -46,10 +46,10 @@ I enjoy connecting the technical and business sides to better understand problem
 <img src="https://img.shields.io/badge/Data%20Flow%20Diagrams-0d1117?style=for-the-badge" alt="Data Flow Diagrams">
 
 **Data Analytics**<br>
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/python.webp" alt="Python">
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" alt="Power BI">
-<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-sql-server.svg" alt="sql">
-<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-excel-2018.svg" alt="Excel">
+<img src="" alt="Python">
+<img src="<img src="https://api.iconify.design/thesvg-color:microsoft-power-bi.svg" alt="microsoft-power-bi" width="24" height="24" />" alt="Power BI">
+<img src="" alt="sql">
+<img src="" alt="Excel">
 
 **Tools**<br>
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="GitHub">
