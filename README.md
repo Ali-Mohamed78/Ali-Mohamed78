@@ -12,7 +12,11 @@
   <img src="https://api.iconify.design/logos/google-gmail.svg" width="44" height="44" alt="Gmail">
 </a>
 
-<b>LinkedIn</b>&emsp;&emsp;&emsp;&emsp;<b>Gmail</b>
+<b>LinkedIn</b>&emsp;&emsp;&ensp;<b>Gmail</b>
+
+</div>
+
+
 
 </div>
 
