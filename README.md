@@ -4,24 +4,19 @@
 
 📍 Cairo, Egypt · Open to Work
 
-<div align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://api.iconify.design/logos/linkedin-icon.svg" width="44" height="44" alt="LinkedIn">
+</a>
+&emsp;&emsp;&emsp;
+<a href="https://mail.google.com/mail/?view=cm&to=alymohammed7878@gmail.com">
+  <img src="https://api.iconify.design/logos/google-gmail.svg" width="44" height="44" alt="Gmail">
+</a>
 
-  <div style="display: inline-block; text-align: center; width: 100px;">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-      <img src="https://api.iconify.design/logos/linkedin-icon.svg" width="44" height="44" alt="LinkedIn">
-    </a>
-    <br>
-    <b>LinkedIn</b>
-  </div>
-  &emsp;&emsp;
-  <div style="display: inline-block; text-align: center; width: 100px;">
-    <a href="https://mail.google.com/mail/?view=cm&to=alymohammed7878@gmail.com">
-      <img src="https://api.iconify.design/logos/google-gmail.svg" width="44" height="44" alt="Gmail">
-    </a>
-    <br>
-    <b>Gmail</b>
-  </div>
-  <hr>
+<b>LinkedIn</b>&emsp;&emsp;&emsp;&emsp;<b>Gmail</b>
+
+</div>
+
+
 
 </div>
 
