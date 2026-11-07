@@ -86,7 +86,7 @@ I enjoy connecting the technical and business sides to better understand problem
 
 | Project | Focus | Tools | Link |
 |:-------:|:-----:|:-----:|:----:|
-| **UAE Used Cars Analytics** | Explore used car prices and factors affecting their value | Python · pandas | [View](https://github.com/YOUR_USERNAME/uae-used-cars-analytics) |
+| **UAE Used Cars Analytics** | Explore used car prices and factors affecting their value | Python · pandas | [View](https://github.com/Ali-Mohamed78/UAE-Used-Cars-Analysis/tree/main) |
 
 </div>
 
